@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            陈湘仪
+title:            15331034
 tagline:          '15331034'
-description:      '15331034 SYSU'
+description:      '上午班 SYSU'
 url:              https://chenxy296.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,7 +14,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           '陈湘仪'
+  name:           'CXY'
   url:            
 
 paginate:         5
